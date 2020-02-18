@@ -3,7 +3,7 @@
 
 ## 【LEARNING NOTE】
 ### 1. INTRODUCTION
-#### Data Source & Data IO || DAY1 
+#### Data Source & File IO || DAY1 
 #### Data IO：CSV || DAY2
 pandas：pd.read_csv()  
 csv.reader()  
