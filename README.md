@@ -10,11 +10,11 @@
 | API          | [what is API](https://www.youtube.com/watch?v=zvKadd9Cflc)     |
 | Crawler     |  website    | 
 
-|   Library |       |
+| File I/O |       |
 | ------------- |:-------------:      
 | urllib      |Download data by url    |
 | os         | Manipulate file directory|
-| (file I/O)    | open--> 'r', 'w', 'a' -->close |
+| (file handling)  | open--> 'r', 'w', 'a' -->close |
 | cardet     |  Identify encoding type|
 
 
