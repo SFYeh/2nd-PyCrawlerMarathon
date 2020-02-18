@@ -10,6 +10,12 @@
 | API          | [what is API](https://www.youtube.com/watch?v=zvKadd9Cflc)     |
 | Crawler     |  website    | 
 
+   
+| urllib      |Download data by url    |
+| os         | Manipulate file directory|
+| file I/O     | open--> 'r', 'w', 'a' -->close \n with open as    |
+| cardet     |  Identify encoding type|
+
 
 
 #### Data IO：CSV || DAY2
