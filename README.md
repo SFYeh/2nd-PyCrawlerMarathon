@@ -5,10 +5,10 @@
 ### 1. INTRODUCTION
 #### Data Source & File IO || DAY1 
 #### Data IO：CSV || DAY2
-| library       | command            |  缺點|
+| library       |command            |缺點|
 | ------------- |:-------------:     | -----:|
 | pandas        |pd.read_csv()       | |
-| csv           | csv.reader()       |  需要另外將資料儲存成變數並整合之後才能使用 |
+| csv           |csv.reader()       |需要另外將資料儲存成變數並整合之後才能使用 |
 
 see more ：[Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 #### Data IO：XML || DAY3
