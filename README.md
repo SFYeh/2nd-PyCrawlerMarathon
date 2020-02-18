@@ -4,6 +4,13 @@
 ## 【LEARNING NOTE】
 ### 1. INTRODUCTION
 #### Data Source & File IO || DAY1 
+|Data Source     |       |
+| ------------- |:-------------:     
+| file       |csv, json, xml       |
+| API          |      |
+| Crawler     |      | 
+
+
 #### Data IO：CSV || DAY2
 | library       |command            |缺點|
 | ------------- |:-------------:     | -----:|
