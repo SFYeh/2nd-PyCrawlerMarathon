@@ -6,16 +6,16 @@
 #### Data Source & File IO || DAY1 
 |Data Source     |       |
 | ------------- |:-------------:     
-| file       |csv, json, xml       |
-| API          | [what is API](https://www.youtube.com/watch?v=zvKadd9Cflc)     |
-| Crawler     |  website    | 
+|file       |csv, json, xml       |
+|API          |[what is API](https://www.youtube.com/watch?v=zvKadd9Cflc)     |
+|Crawler     |website    | 
 
-| File I/O |       |
+|File I/O |       |
 | ------------- |:-------------:      
 | urllib      |Download data by url    |
-| os         | Manipulate file directory|
-| (file handling)  | open--> 'r', 'w', 'a' -->close |
-| cardet     |  Identify encoding type|
+| os         |Manipulate file directory|
+| (file handling)  |open--> 'r', 'w', 'a' -->close |
+| cardet     |Identify encoding type|
 
 
 
