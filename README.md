@@ -7,7 +7,7 @@
 #### Data IO：CSV || DAY2
 import pandas as pd -->pd.read_csv()  
 import csv          --> csv.reader()  
-more see [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
+see more ：[Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 #### Data IO：XML || DAY3
 
 ### 2. STATIC WEBPAGE
