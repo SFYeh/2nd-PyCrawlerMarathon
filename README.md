@@ -7,8 +7,8 @@
 |Data Source     |       |
 | ------------- |:-------------:     
 | file       |csv, json, xml       |
-| API          |      |
-| Crawler     |      | 
+| API          | [what is API](https://www.youtube.com/watch?v=zvKadd9Cflc)     |
+| Crawler     |  website    | 
 
 
 #### Data IO：CSV || DAY2
