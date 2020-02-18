@@ -10,7 +10,7 @@ csv.reader()
 more see [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 #### Data IO：XML || DAY3
 
-### 2.STATIC WEBPAGE
+### 2. STATIC WEBPAGE
 
 ### 3. DYNAMIC WEBPAGE
 
