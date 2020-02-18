@@ -1,16 +1,17 @@
 # 2nd-PyCrawlerMarathon
 ## 【FINAL PROJECT】
 
-## 【INTRODUCTION】
-### Data Source & Data IO || DAY1 
-### Data IO：CSV || DAY2
+## 【LEARNING NOTE】
+### 1. INTRODUCTION
+#### Data Source & Data IO || DAY1 
+#### Data IO：CSV || DAY2
 pandas：pd.read_csv()  
 csv.reader()  
 more see [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
-### Data IO：XML || DAY3
+#### Data IO：XML || DAY3
 
-## 【STATIC WEBPAGE】
+### 2.STATIC WEBPAGE
 
-## 【DYNAMIC WEBPAGE】
+### 3. DYNAMIC WEBPAGE
 
-## 【DIGGING DEEPER】
+### 4. DIGGING DEEPER
