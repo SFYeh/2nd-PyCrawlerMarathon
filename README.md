@@ -1,5 +1,5 @@
 # 2nd-PyCrawlerMarathon
-## 【FINAL PROJECT】
+## 【PROJECTS】
 
 ## 【LEARNING NOTE】
 ### 1. INTRODUCTION
