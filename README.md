@@ -11,7 +11,7 @@
 |Crawler     |website    | 
 
 |File I/O |       ||
-| ------------- |:-------------:||      
+| ------------- |:-------------:|--------------|      
 | urllib      |Download data by url|urlretrieve|
 | os         |Manipulate file directory|os.path.join(), os.listdir(), os.makedirs()|
 | (file handling)  |open--> 'r', 'w', 'a' -->close ||
