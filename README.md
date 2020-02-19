@@ -10,7 +10,7 @@
 |API          |[what is API](https://www.youtube.com/watch?v=zvKadd9Cflc)     |
 |Crawler     |website    | 
 
-|File I/O |   explain    ||
+|File I/O |   explain    |functions|
 | ------------- |:-------------:|--------------|      
 | urllib      |Download data by url|urlretrieve|
 | os         |Manipulate file directory|os.path.join(), os.listdir(), os.makedirs()|
