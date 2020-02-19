@@ -10,10 +10,10 @@
 |API          |[what is API](https://www.youtube.com/watch?v=zvKadd9Cflc)     |
 |Crawler     |website    | 
 
-|File I/O |       |
-| ------------- |:-------------:      
-| urllib      |Download data by url    |
-| os         |Manipulate file directory|
+|File I/O |       ||
+| ------------- |:-------------:||      
+| urllib      |Download data by url|urlretrieve|
+| os         |Manipulate file directory|os.path.join(), os.listdir(), os.makedirs()
 | (file handling)  |open--> 'r', 'w', 'a' -->close |
 | cardet     |Identify encoding type|
 
