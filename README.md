@@ -27,6 +27,7 @@
 
 see more ：[Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 #### Data IO：XML || DAY3
+import xmltodict：transfer xml to dictionary
 
 ### 2. STATIC WEBPAGE
 
