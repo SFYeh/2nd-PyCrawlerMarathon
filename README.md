@@ -32,15 +32,8 @@ import xmltodict：transfer xml to dictionary
 #### HTTP CLIENT & SERVER ||DAY4
 * HTTP：Request & response   
 * Structure   
- Request  |Response       
-----------|-------   
-Header    |[Status](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)|  
-Content    | Header    
-           | Content           
-
-
-
-
+ **Request**  |Header|Content
+ **Response** |[Status](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)|Header|Content
 * Method   
 Request：GET & POST  
 Response：API & HTML VIEW  
