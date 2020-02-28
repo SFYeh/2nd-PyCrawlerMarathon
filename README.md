@@ -30,15 +30,15 @@ see more ：[Reading and Writing CSV Files in Python](https://realpython.com/pyt
 import xmltodict：transfer xml to dictionary
 
 #### HTTP CLIENT & SERVER ||DAY4
-* HTTP：Request & response 
-* Structure
+* HTTP：Request & response   
+* Structure  
 | Request       |Response       |   
 | ------------- |:-------------:|    
 | Header        |[Status](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)|      
 | Content     |Header  |
 |             |Content|
 
-* Method 
+* Method   
 Request：GET & POST
 Response：API & HTML VIEW
 
