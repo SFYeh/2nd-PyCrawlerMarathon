@@ -32,15 +32,15 @@ import xmltodict：transfer xml to dictionary
 #### HTTP CLIENT & SERVER ||DAY4
 * HTTP：Request & response   
 * Structure  
-| Request       |Response       |   
-| ------------- |:-------------:|    
-| Header        |[Status](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)|      
-| Content     |Header  |
-|             |Content|
+| Request       |Response       |     
+| ------------- |:-------------:|      
+| Header        |[Status](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)|        
+| Content     |Header  |  
+|             |Content|  
 
 * Method   
-Request：GET & POST
-Response：API & HTML VIEW
+Request：GET & POST  
+Response：API & HTML VIEW  
 
 ### 2. STATIC WEBPAGE
 
