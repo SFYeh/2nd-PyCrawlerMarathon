@@ -29,6 +29,15 @@ see more ：[Reading and Writing CSV Files in Python](https://realpython.com/pyt
 #### Data IO：XML || DAY3
 import xmltodict：transfer xml to dictionary
 
+#### HTTP CLIENT & SERVER ||DAY4
+* HTTP：Request & response   
+* Structure   
+ **Request**  |Header|Content  
+ **Response** |[Status](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)|Header|Content
+* Method   
+Request：GET & POST  
+Response：API & HTML VIEW  
+
 ### 2. STATIC WEBPAGE
 
 ### 3. DYNAMIC WEBPAGE
