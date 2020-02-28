@@ -32,7 +32,7 @@ import xmltodict：transfer xml to dictionary
 #### HTTP CLIENT & SERVER ||DAY4
 * HTTP：Request & response   
 * Structure   
- **Request**  |Header|Content
+ **Request**  |Header|Content  
  **Response** |[Status](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status)|Header|Content
 * Method   
 Request：GET & POST  
