@@ -41,10 +41,11 @@ Response：API & HTML VIEW
 ### API||DAY5,6
 
 **HW06 key：Header, timestamp & List sort**
-1. 取出知乎問題發問時間
+1. 取出知乎問題發問時間  
    (1)Sometimes without header, data cannot be access properly  
    (2) Timestamp --> regular tome dormat
-2. 取出第一筆與最後一筆回答的時間：
+2. 取出第一筆與最後一筆回答的時間  
+   * list sorting
 ### 2. STATIC WEBPAGE
 
 ### 3. DYNAMIC WEBPAGE
