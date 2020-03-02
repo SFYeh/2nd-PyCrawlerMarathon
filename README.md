@@ -42,7 +42,7 @@ Response：API & HTML VIEW
 
 **HW06 key：Header, timestamp & List sort**
 1. 取出知乎問題發問時間
-   (1)Sometimes without header, data cannot be access properly
+   (1)Sometimes without header, data cannot be access properly  
    (2) Timestamp --> regular tome dormat
 2. 取出第一筆與最後一筆回答的時間：
 ### 2. STATIC WEBPAGE
