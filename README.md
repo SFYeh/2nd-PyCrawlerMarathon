@@ -51,6 +51,10 @@ Response：API & HTML VIEW
 **HW07 Questions**
 1. Shortage or HTTP (request&response) 
 2. Difference between  JavaScipt & Python Interpreter
+**HW08：BeautifulSoup Library**
+* request.encoding = 'utf-8'  
+* class from 'str' to 'bs4.BeautifulSoup'  
+* Solve '404 Bad Request'：headers  
 
 ### 3. DYNAMIC WEBPAGE
 
