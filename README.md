@@ -20,7 +20,7 @@
 
 
 #### Data IO：CSV || DAY2
-| library       |command            |缺點|
+| library       |command            |Shortage|
 | ------------- |:-------------:     | -----:|
 | pandas        |pd.read_csv()       | |
 | csv           |csv.reader()       |需要另外將資料儲存成變數並整合之後才能使用 |
@@ -46,7 +46,11 @@ Response：API & HTML VIEW
    (2) Timestamp --> regular tome dormat
 2. 取出第一筆與最後一筆回答的時間  
    * list sorting
-### 2. STATIC WEBPAGE
+   
+### 2. STATIC WEBPAGE 靜態網頁
+**HW07 Questions**
+1. Shortage or HTTP (request&response) 
+2. Difference between  JavaScipt & Python Interpreter
 
 ### 3. DYNAMIC WEBPAGE
 
