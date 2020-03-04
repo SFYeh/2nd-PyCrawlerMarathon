@@ -55,7 +55,7 @@ Response：API & HTML VIEW
 **HW08：BeautifulSoup Library**
 * request.encoding = 'utf-8'  
 * class from 'str' to 'bs4.BeautifulSoup'  
-* Solve '404 Bad Request'：headers  
+* Solve '404 Bad Request' by headers  
 
 ### 3. DYNAMIC WEBPAGE
 
