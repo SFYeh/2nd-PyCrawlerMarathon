@@ -46,8 +46,8 @@ Response：API & HTML VIEW
   (2) Columns names in the API   
   (3) Title, post time & Likes in each post in the API  
 3. Information in API   
-   * popular post：'https://www.dcard.tw/_api/forums/pet/posts? popular=true'    
-   * Less populor post：'https://www.dcard.tw/_api/forums/pet/posts? popular=false'    
+   * popular post：<div style="display: inline"> https://www.dcard.tw/_api/forums/pet/posts?popular=true </div>   
+   * Less populor post："https://www.dcard.tw/_api/forums/pet/posts?popular=false"    
 
 **HW06 key：Header, timestamp & List sort**
 1. Retrive data from "知乎"  
