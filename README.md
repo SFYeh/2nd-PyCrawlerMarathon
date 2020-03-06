@@ -57,7 +57,7 @@ Response：API & HTML VIEW
    * list sorting
    
 ### 2. STATIC WEBPAGE 靜態網頁
-**HW07 Questions**
+**HW07 Questions：**
 1. Shortage or HTTP (request&response) 
 2. Difference between  JavaScript & Python Interpreter  
 
