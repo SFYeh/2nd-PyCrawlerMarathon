@@ -66,6 +66,9 @@ Response：API & HTML VIEW
 * class from 'str' to 'bs4.BeautifulSoup'  
 * Solve '404 Bad Request' by headers  
 
+**HW09：Picture Download**  
+* from PIL import Image：Check if "image format" is the correct one  
+
 ### 3. DYNAMIC WEBPAGE
 
 ### 4. DIGGING DEEPER
