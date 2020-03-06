@@ -46,15 +46,15 @@ Response：API & HTML VIEW
   (2) Columns names in the API   
   (3) Title, post time & Likes in each post in the API  
 3. Information in API ：popular=true/false  
-* popular post：<div style="display: inline"> https://www.dcard.tw/_api/forums/pet/posts?popular=true </div>   
-* Less populor post：<div style="display: inline">"https://www.dcard.tw/_api/forums/pet/posts?popular=false" </div>      
+  * popular post：<div style="display: inline"> https://www.dcard.tw/_api/forums/pet/posts?popular=true </div>   
+  * Less populor post：<div style="display: inline">"https://www.dcard.tw/_api/forums/pet/posts?popular=false" </div>      
 
 **HW06 key：Header, timestamp & List sort**
 1. Retrive data from "知乎"  
    (1)Sometimes without header, data cannot be access properly  
    (2) Timestamp --> regular tome dormat
 2. Retrieve the earliest & latest post time of the data  
-* list sorting
+  * list sorting
    
 ### 2. STATIC WEBPAGE 靜態網頁
 **HW07 Questions**
