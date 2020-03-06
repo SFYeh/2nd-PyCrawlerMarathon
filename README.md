@@ -23,7 +23,7 @@
 | library       |command            |Shortage|
 | ------------- |:-------------:     | -----:|
 | pandas        |pd.read_csv()       | |
-| csv           |csv.reader()       |需要另外將資料儲存成變數並整合之後才能使用 |
+| csv           |csv.reader()       |Need to save data in variables independently & intergrate them before using|
 
 see more ：[Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 #### Data IO：XML || DAY3
@@ -39,18 +39,27 @@ Request：GET & POST
 Response：API & HTML VIEW  
 
 ### API||DAY5,6
+**HW05：Access API data & View the data**
+1. Acess data from "Dcard API"：import requests    
+2. View data：import json  
+  (1) data length of the API  
+  (2) Columns names in the API   
+  (3) Title, post time & Likes in each post in the API  
+3. Information in API   
+   * popular post：'https://www.dcard.tw/_api/forums/pet/posts? popular=true'    
+   * Less populor post：'https://www.dcard.tw/_api/forums/pet/posts? popular=false'    
 
 **HW06 key：Header, timestamp & List sort**
-1. 取出知乎問題發問時間  
+1. Retrive data from "知乎"  
    (1)Sometimes without header, data cannot be access properly  
    (2) Timestamp --> regular tome dormat
-2. 取出第一筆與最後一筆回答的時間  
+2. Retrieve the earliest & latest post time of the data  
    * list sorting
    
 ### 2. STATIC WEBPAGE 靜態網頁
 **HW07 Questions**
 1. Shortage or HTTP (request&response) 
-2. Difference between  JavaScipt & Python Interpreter  
+2. Difference between  JavaScript & Python Interpreter  
 
 **HW08：BeautifulSoup Library**
 * request.encoding = 'utf-8'  
