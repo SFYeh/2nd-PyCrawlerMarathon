@@ -67,7 +67,8 @@ Response：API & HTML VIEW
 * Solve '404 Bad Request' by headers  
 
 **HW09：Picture Download**  
-* from PIL import Image：Check if "image format" is the correct one  
+* from PIL import Image：Check if "image format" is the correct one   
+* Cookies [Python 網路爬蟲 Web Crawler 教學 - Cookie 操作實務 By 彭彭](https://www.youtube.com/watch?v=BEA7F9ExiPY&feature=youtu.be)  
 
 ### 3. DYNAMIC WEBPAGE
 
