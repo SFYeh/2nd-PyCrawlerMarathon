@@ -38,7 +38,7 @@ import xmltodict：transfer xml to dictionary
 Request：GET & POST  
 Response：API & HTML VIEW  
 
-### API||DAY5,6
+#### API ||DAY5,6
 **HW05：Access API data & View the data**
 1. Acess data from "Dcard API"：import requests    
 2. View data：import json  
