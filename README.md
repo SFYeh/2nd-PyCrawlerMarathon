@@ -68,7 +68,8 @@ Response：API & HTML VIEW
 
 **HW09：Picture Download**  
 * from PIL import Image：Check if "image format" is the correct one   
-* Cookies [Python 網路爬蟲 Web Crawler 教學 - Cookie 操作實務 By 彭彭](https://www.youtube.com/watch?v=BEA7F9ExiPY&feature=youtu.be)  
+* Cookies：Skip 'age' restriction in PTT
+  [Python 網路爬蟲 Web Crawler 教學 - Cookie 操作實務 By 彭彭](https://www.youtube.com/watch?v=BEA7F9ExiPY&feature=youtu.be)  
 
 **HW10：grab/PyQuery Library**
 
