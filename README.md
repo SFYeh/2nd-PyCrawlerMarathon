@@ -40,7 +40,7 @@ Response：API & HTML VIEW
 
 #### API ||DAY5,6
 **HW05：Access API data & View the data**
-1. Acess data from "Dcard API"：import requests    
+1. Acess data from "Dcard API"：import requests (library)   
 2. View data：import json  
   (1) data length of the API  
   (2) Columns names in the API   
@@ -69,6 +69,8 @@ Response：API & HTML VIEW
 **HW09：Picture Download**  
 * from PIL import Image：Check if "image format" is the correct one   
 * Cookies [Python 網路爬蟲 Web Crawler 教學 - Cookie 操作實務 By 彭彭](https://www.youtube.com/watch?v=BEA7F9ExiPY&feature=youtu.be)  
+
+**HW10：grab/PyQuery Library**
 
 ### 3. DYNAMIC WEBPAGE
 
