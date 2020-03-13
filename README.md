@@ -71,7 +71,10 @@ Response：API & HTML VIEW
 * Cookies：Skip 'age' restriction in PTT
   [Python 網路爬蟲 Web Crawler 教學 - Cookie 操作實務 By 彭彭](https://www.youtube.com/watch?v=BEA7F9ExiPY&feature=youtu.be)  
 
-**HW10：grab/PyQuery Library**
+**HW10：grab/PyQuery Library**  
+* similar usage with 'requests' & 'BeautifulSoup'
+
+**HW11:Regular Expression**
 
 ### 3. DYNAMIC WEBPAGE
 
