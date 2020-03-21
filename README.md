@@ -75,14 +75,15 @@ Response：API & HTML VIEW
 * similar usage with 'requests' & 'BeautifulSoup'
 
 **Day 11:Regular Expression**  
-* SAMPLE  
-** 使用「\w」匹配字母，「\d」匹配數字，「\s」匹配空白  
-** [...]匹配  
-** |  
-** 跳脫符號「\」  
-** 比對中文字  
-
-HW
+* SAMPLE
+  *  Escape character「\」    
+  * 「\w」word，「\d」digit，「\s」space  
+  * '[]' for the "specific" first character & '[]+' for the "specific" first and "any" rest        
+  *  or「|」  
+  * Match chinese： UNICODE 0x4E00 - 0x9FA5    
+* HW
+  * filter IP Adress：Matching Numeric Ranges
+  * filter URL "<a href=XXXXXXXXXXXXXX</a>"  
 
 ### 3. DYNAMIC WEBPAGE
 
