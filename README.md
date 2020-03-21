@@ -74,7 +74,15 @@ Response：API & HTML VIEW
 **HW10：grab/PyQuery Library**  
 * similar usage with 'requests' & 'BeautifulSoup'
 
-**HW11:Regular Expression**
+**Day 11:Regular Expression**
+* SAMPLE
+** 使用「\w」匹配字母，「\d」匹配數字，「\s」匹配空白
+** [...]匹配
+** |
+** 跳脫符號「\」
+** 比對中文字
+
+HW
 
 ### 3. DYNAMIC WEBPAGE
 
