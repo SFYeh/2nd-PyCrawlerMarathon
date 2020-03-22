@@ -1,7 +1,6 @@
 # 2nd-PyCrawlerMarathon
 ## 【PROJECTS Outline】
-### STATIC WEBPAGE CRAWLER
-#### Outline | D12-16
+### STATIC WEBPAGE CRAWLER | D12-16
 * Ettoday news：title & categories | D12
 * PTT forum： Author, title, pulished time | D13
 * Yahoo movie：Name of movie, introduction, release area & date and Audience rating | D14
