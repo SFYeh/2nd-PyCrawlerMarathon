@@ -83,9 +83,7 @@ Response：API & HTML VIEW
   * Match chinese： UNICODE 0x4E00 - 0x9FA5    
 * HW
   * filter IP Adress：Matching Numeric Ranges
-  * filter URL "<a>    
-                href=https://...    
-               </a>"    
+  * filter URL "<a href=https://... /a>"    
 
 ### 3. DYNAMIC WEBPAGE
 
