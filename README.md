@@ -1,5 +1,12 @@
 # 2nd-PyCrawlerMarathon
-## 【PROJECTS】
+## 【PROJECTS Outline】
+### STATIC WEBPAGE CRAWLER | D12-16
+* Ettoday news：title & categories | D12
+* PTT forum： Author, title, pulished time | D13
+* Yahoo movie：Name of movie, introduction, release area & date and Audience rating | D14
+* Taiwan bank：Historical currency rate & trend | D15
+* Wiki pedia：content & hyperlinks| D16
+
 
 ## 【LEARNING NOTE】
 ### 1. INTRODUCTION
