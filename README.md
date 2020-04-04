@@ -2,7 +2,7 @@
 ## 【PROJECTS Outline】
 ### STATIC WEBPAGE CRAWLER | D12-16
 * Ettoday news：title & categories | D12
-* PTT forum： Author, title, pulished time (article list to latest article) | D13
+* PTT forum： Author, title, pulished time (article list to latest article content) | D13
 * Yahoo movie：Name of movie, introduction, release area & date and Audience rating | D14
 * Taiwan bank：Historical currency rate & trend | D15
 * Wiki pedia：content & hyperlinks| D16
