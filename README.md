@@ -1,7 +1,7 @@
 # 2nd-PyCrawlerMarathon
 ## 【PROJECTS Outline】
 ### STATIC WEBPAGE CRAWLER | D12-16
-* Ettoday news：title & category rank + | D12
+* Ettoday news：title & category rank + reconstruct dict with loop | D12
 * PTT forum： Author, title, pulished time (article list to latest article content) | D13
 * Yahoo movie：Name of movie, introduction, release area & date and Audience rating | D14
 * Taiwan bank：Historical currency rate & trend | D15
